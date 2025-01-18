@@ -1,0 +1,7 @@
+streamlit
+pinecone-client
+numpy
+nvidia-pyindex
+nvidia-nemo
+langchain
+openai
